@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Flashcard_web_app.Models.Notecard>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Your notecards</h2>
+
+<p>
+    @Html.ActionLink("Add a Card", "Create", "Notecards", new { id = (int)Session["DeckID"] }, null)
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Question)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Answer)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Where(m => m.DeckID == (int)Session["DeckID"])) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Question)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Answer)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Notecards", new { id = item.ID }, null) <span>&nbsp;</span>
+                @Html.ActionLink("Delete", "Delete", "Notecards", new { id = item.ID }, null)
+            </td>
+        </tr>
+    }
+</table>
+@Html.ActionLink("Back to your decks", "Dashboard", "Account")

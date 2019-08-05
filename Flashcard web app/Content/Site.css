@@ -1,0 +1,109 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+body {
+    color: white;
+    background-color: #124d8c;
+}
+
+p {
+    font-family: 'Franklin Gothic';
+    font-size: 20px;
+    color:white;
+}
+
+.form-horizontal .control-label {
+    
+    font-family: 'Franklin Gothic';
+    font-size: 20px;
+    color: white;
+}
+
+tbody {
+    font-family: 'Franklin Gothic';
+    font-size: 20px;
+    color: darkslateblue;
+}
+
+table {
+    background-color: #f7f8f9;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+a {
+    color: #ff7b00;
+}
+
+a:hover {
+    color: #ffae00;
+}
+
+div.form {
+    display: block;
+    text-align: center;
+}
+
+
+
+h7 {
+    font-family: 'Bookman Old Style';
+    font-weight: 100;
+    font-size: 40px;
+    color: darkslateblue;
+    background-color: white;
+}
+
+h2 {
+    font-family: 'Bookman Old Style';
+    font-weight:100;
+    font-size: 40px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: darkslateblue;
+    font-family: 'AR JULIAN';
+    font-size: 40px;
+}
+
+.container > .navbar-header, .container > .navbar-collapse {
+    background-color: #f7f8f9;
+}
+
+.navbar-inverse{
+    background-color:#f7f8f9;
+    border-color:#f7f8f9;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+
+    color:darkslateblue;
+    font-family:'Bookman Old Style';
+    font-size:20px;
+
+ }
+
+section#loginForm {
+    
+  
+}
+
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+     padding-left: 15px;
+     padding-right: 15px;
+ }
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+

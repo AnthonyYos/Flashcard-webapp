@@ -1,0 +1,90 @@
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Flashcard web app.dll.config
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Flashcard web app.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Flashcard web app.pdb
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\csc.exe
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\csc.exe.config
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\csc.rsp
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\csi.exe
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\csi.exe.config
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\csi.rsp
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.AppContext.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Collections.Immutable.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Console.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.IO.Compression.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.IO.FileSystem.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.IO.Pipes.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Reflection.Metadata.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Security.AccessControl.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Security.Claims.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.ValueTuple.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Xml.XPath.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\vbc.exe
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\vbc.exe.config
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\vbc.rsp
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\VBCSCompiler.exe
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\roslyn\VBCSCompiler.exe.config
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\EntityFramework.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\EntityFramework.SqlServer.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.Owin.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.Owin.Security.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.Web.Infrastructure.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Newtonsoft.Json.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Owin.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Helpers.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Mvc.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Razor.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Webpages.Deployment.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Webpages.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Webpages.Razor.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\EntityFramework.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\EntityFramework.SqlServer.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.Owin.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.Owin.Security.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Newtonsoft.Json.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Razor.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Webpages.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Webpages.Deployment.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Webpages.Razor.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Helpers.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\System.Web.Mvc.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\obj\Debug\Flashcard web app.csprojAssemblyReference.cache
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\obj\Debug\Flashcard web app.csproj.CoreCompileInputs.cache
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\obj\Debug\Flashcard web app.csproj.CopyComplete
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\obj\Debug\Flashcard web app.dll
+G:\Visual Studio Projects\C#\Flashcard web app\Flashcard web app\obj\Debug\Flashcard web app.pdb
