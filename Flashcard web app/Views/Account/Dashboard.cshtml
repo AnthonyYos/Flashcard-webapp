@@ -24,22 +24,17 @@
             </td>
             <td>
                 @Html.ActionLink("View Notecards", "Notecards", "Notecards", new { id = deck.ID }, null) <span>&nbsp;</span>
+
                 @if ((int)Session["UserID"] == deck.QuizzyUserID)
                 {
                     @Html.ActionLink("Add a Card", "Create", "Notecards", new { id = deck.ID }, null);
-                } <span>&nbsp;</span>
-                @if ((int)Session["UserID"] == deck.QuizzyUserID)
-                {
+                    <span>&nbsp;</span>
                     @Html.ActionLink("Edit", "Edit", "Decks", new { id = deck.ID }, null);
-                } <span>&nbsp;</span>
-                @if ((int)Session["UserID"] == deck.QuizzyUserID)
-                {
+                    <span>&nbsp;</span>
                     @Html.ActionLink("Delete", "Delete", "Decks", new { id = deck.ID }, null);
-                } <span>&nbsp;</span>
-                @if ((int)Session["UserID"] == deck.QuizzyUserID)
-                {
+                    <span>&nbsp;</span>
                     @Html.ActionLink("Quiz Me", "Quiz", "Notecards", new { id = deck.ID }, null);
-                } <span>&nbsp;</span>
+                }
             </td>
         </tr>
     }
